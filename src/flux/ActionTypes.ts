@@ -1,0 +1,10 @@
+
+// Action Types
+const ActionTypes = {
+  INCREMENT_NUMBER: 'INCREMENT_NUMBER',
+  DECREMENT_NUMBER: 'DECREMENT_NUMBER',
+  ZERO_NUMBER: 'ZERO_NUMBER',
+  RANDOM_NUMBER: 'RANDOM_NUMBER',
+};
+
+export default ActionTypes;
